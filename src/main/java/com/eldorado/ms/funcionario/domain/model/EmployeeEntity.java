@@ -1,4 +1,4 @@
-package br.com.eldorado.ms.funcionario.domain.model;
+package com.eldorado.ms.funcionario.domain.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

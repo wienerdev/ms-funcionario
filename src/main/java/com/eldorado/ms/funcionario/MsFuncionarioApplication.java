@@ -1,4 +1,4 @@
-package br.com.eldorado.ms.funcionario;
+package com.eldorado.ms.funcionario;
 
 import com.eldorado.commons.configuration.EnableMapper;
 import org.springframework.amqp.rabbit.annotation.EnableRabbit;
@@ -8,8 +8,6 @@ import org.springframework.data.mongodb.repository.config.EnableMongoRepositorie
 
 @SpringBootApplication
 @EnableMongoRepositories
-@EnableRabbit
-//@EnableAuthorization
 @EnableMapper
 public class MsFuncionarioApplication {
 

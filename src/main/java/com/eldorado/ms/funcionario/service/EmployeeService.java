@@ -1,9 +1,9 @@
-package br.com.eldorado.ms.funcionario.service;
+package com.eldorado.ms.funcionario.service;
 
-import br.com.eldorado.ms.funcionario.domain.model.EmployeeEntity;
-import br.com.eldorado.ms.funcionario.domain.repository.EmployeeRepository;
-import br.com.eldorado.ms.funcionario.dto.CustomEmployeeList;
-import br.com.eldorado.ms.funcionario.dto.EmployeeDto;
+import com.eldorado.ms.funcionario.domain.model.EmployeeEntity;
+import com.eldorado.ms.funcionario.domain.repository.EmployeeRepository;
+import com.eldorado.ms.funcionario.dto.CustomEmployeeList;
+import com.eldorado.ms.funcionario.dto.EmployeeDto;
 import lombok.RequiredArgsConstructor;
 import lombok.SneakyThrows;
 import lombok.extern.slf4j.Slf4j;

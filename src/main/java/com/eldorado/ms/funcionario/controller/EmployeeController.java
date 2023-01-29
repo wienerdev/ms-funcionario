@@ -1,7 +1,7 @@
-package br.com.eldorado.ms.funcionario.controller;
+package com.eldorado.ms.funcionario.controller;
 
-import br.com.eldorado.ms.funcionario.dto.EmployeeDto;
-import br.com.eldorado.ms.funcionario.service.EmployeeService;
+import com.eldorado.ms.funcionario.dto.EmployeeDto;
+import com.eldorado.ms.funcionario.service.EmployeeService;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.http.ResponseEntity;

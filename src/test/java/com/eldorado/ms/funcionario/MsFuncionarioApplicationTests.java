@@ -1,4 +1,4 @@
-package br.com.eldorado.ms.funcionario;
+package com.eldorado.ms.funcionario;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

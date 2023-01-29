@@ -1,6 +1,6 @@
-package br.com.eldorado.ms.funcionario.domain.repository;
+package com.eldorado.ms.funcionario.domain.repository;
 
-import br.com.eldorado.ms.funcionario.domain.model.EmployeeEntity;
+import com.eldorado.ms.funcionario.domain.model.EmployeeEntity;
 import org.springframework.data.mongodb.repository.MongoRepository;
 import org.springframework.stereotype.Repository;
 

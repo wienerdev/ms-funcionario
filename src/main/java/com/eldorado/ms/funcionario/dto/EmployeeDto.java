@@ -1,4 +1,4 @@
-package br.com.eldorado.ms.funcionario.dto;
+package com.eldorado.ms.funcionario.dto;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import lombok.*;
